@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wifi File Exchange</string>
+    <string name="device_name">Device name</string>
+    <string name="visible">Visible</string>
+    <string name="look_for_visible_users">Look for visible users</string>
+
+</resources>
